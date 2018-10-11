@@ -1,0 +1,8 @@
+mongodb
+
+db:admin user:admin pwd:qukuailian
+db:gen   user:genuser pwd:123456
+
+use first 
+db.createUser({user:'test',pwd:'123456',roles:[{role:'readWrite',db:'first'}]})
+db:first user:test pwd:123456
