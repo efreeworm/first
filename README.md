@@ -6,7 +6,7 @@
     - 后端基于Node.js技术 
         - `Node.js` 是一个基于 Chrome V8 引擎的 JavaScript 运行环境 
         - `Express` 基于 Node.js 平台，快速、开放、极简的 Web 开发框架 
-        - `Axios` Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。
+        - `Axios` Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中
         - `Body-parser` 是一个HTTP请求体解析中间件，使用这个模块可以解析JSON、Raw、文本、URL-encoded格式的请求体，Express框架中就是使用这个模块做为请求体解析中间件。
     - 前端采用Vue技术
         - `Element` 一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库
@@ -15,11 +15,11 @@
         - MongoDB `mongoose` 
     - 接口采用RESTful风格
         - REST 指的是一组架构约束条件和原则。满足这些约束条件和原则的应用程序或设计就是 RESTful。
-    - 开发语言
+    - 开发语言
         - JavaScript、HTML、CSS
 &nbsp;
 
--  **当前大部分程序的系统架构，采用B/S（Browser/Server）架构的方式开发这种系统应用**
+-  **当前大部分程序的系统架构，采用B/S架构的方式开发这种系统应用**
     - 本例的前端部分对应Browser，后端对应Server
     ```sequence
     Title:登录过程 B/S架构
@@ -37,7 +37,7 @@
     - Docker模式
     - 本机模式 
 &nbsp;
-- **前端主流技术**
+- **前端相关技术**
     - 前端
         - Bootstrap、Vue、React、Angularjs、JQuery、Webpack
         - Html5、css3、es6
